@@ -1,1 +1,8 @@
-node_modules
+# Ignore node_modules
+node_modules/
+
+# Ignore Spam Folder
+mongooseModels
+
+# Ignore environment variables
+.env
